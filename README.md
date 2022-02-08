@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joobsterr
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning cryptography
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me, send me a DM
 
 <!---
